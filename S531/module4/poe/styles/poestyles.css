@@ -1,0 +1,21 @@
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+}
+
+body {
+	background-color: #b69cba;
+	background-image: url("../images/poe.jpg")
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+h1, h2, table {
+	background-color: #c8cbcf 
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
