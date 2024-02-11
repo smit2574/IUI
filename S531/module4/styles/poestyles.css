@@ -2,12 +2,12 @@ body {
 max-width: 60em;
 margin: 0 auto 0 auto;
 }
+h1 { 
+	background-image: url("../images/poe.jpg")
+}
 
 body {
 	background-color: #b69cba;
-	background-image: url("../images/poe.jpg")
-	background-repeat: no-repeat;
-	background-position: right top;
 }
 
 h1, h2, table {
