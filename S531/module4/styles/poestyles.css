@@ -23,7 +23,7 @@ p {
 
 h1, h2, table { 
 	background-color: #c8cbcf 
-/*I tried to figure out how to make this color stop so that it did not cover the background image, but was pretty confused. 
+/* I tried to figure out how to make this color stop so that it did not cover the background image, but was pretty confused. 
 I'm happy enough with how it looks as is. */
 }
 
@@ -34,6 +34,7 @@ a:link {
 a:visited {
   color: #046309;
 }
+/* The accessibility validator suggested that the links were not high-contrast enough at the default colors */
 
 table, th, td {
 border-collapse: collapse;
