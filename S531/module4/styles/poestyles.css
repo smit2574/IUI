@@ -27,6 +27,14 @@ h1, h2, table {
 I'm happy enough with how it looks as is. */
 }
 
+a:link {
+  color: #033fa6;
+}
+
+a:visited {
+  color: #046309;
+}
+
 table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
